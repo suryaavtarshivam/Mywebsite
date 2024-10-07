@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surya Avtar Shivam - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Surya Avtar Shivam</h1>
+        <p><a href="mailto:Suryasingh2105@gmail.com">Suryasingh2105@gmail.com</a> | +1 (425) 547 2911</p>
+        <p><a href="https://www.linkedin.com/in/surya-shivam/">LinkedIn</a> | <a href="https://github.com/suryaavtarshivam/">GitHub</a></p>
+
+        <h2>Education</h2>
+        <ul>
+            <li><strong>MSIS, Northeastern University</strong> (September 2024 - April 2026, expected)</li>
+            <li>Key Courses: Data Science, Business Analytics, Database Design</li>
+            <li><strong>B.E. Mechanical Engineering, Christ University</strong> (August 2014 - May 2018)</li>
+        </ul>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>SQL, Python, Tableau, Power BI, Excel, Jupyter, Google Colab</li>
+            <li>Supply Chain Strategy, Inventory Management, People Management</li>
+        </ul>
+
+        <h2>Work Experience</h2>
+        <h3>Manager Fleet and Maintenance | Blu-Smart Mobility</h3>
+        <p>July 2022 - August 2023</p>
+        <ul>
+            <li>Developed a preventive maintenance program for a fleet of 500 vehicles, reducing breakdowns by 20%.</li>
+            <li>Optimized inventory management, improving component availability to 95%.</li>
+        </ul>
+
+        <h3>Assistant Manager-Operations | Zoomcar</h3>
+        <p>December 2021 - June 2022</p>
+        <ul>
+            <li>Spearheaded operations across multiple regions, driving process improvement and operational efficiency.</li>
+        </ul>
+
+        <h3>Operation Specialist | Yulu India</h3>
+        <p>June 2020 - August 2021</p>
+        <ul>
+            <li>Architected and launched processes, boosting revenue by 10%.</li>
+        </ul>
+
+        <h2>Achievements</h2>
+        <p>Employee of the Month, Drivezy (August 2019, September 2019)</p>
+    </div>
+</body>
+</html>
